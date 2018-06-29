@@ -1,5 +1,5 @@
 # 基于人工智能的药物分子筛选——比赛代码 第15名
-## 特别感谢yin叔的[baseline](http://www.dcjingsai.com/common/bbs/topicDetails.html?tid=1024)
+## 特别感谢yin叔的[baseline](http://www.dcjingsai.com/common/bbs/topicDetails.html?tid=1024) ！
 
 ## 1.所需要的运行环境及依赖库
 运行环境：python3.5以上
